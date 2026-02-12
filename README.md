@@ -31,5 +31,12 @@ agent.run("Conduct research on equity valuations across the US")
 - Requires Python 3.9+
 - Set your `OPENAI_API_KEY` and other secrets in a `.env` file.
 
+## Documentation
+- **[Agentic AI Lectures](lectures/)** - Comprehensive educational materials covering:
+  - Advanced concepts in agentic AI systems
+  - Multi-agent architectures and design patterns
+  - Planning strategies (ReAct, Plan-and-Execute, Tree-of-Thought)
+  - Real-world implementation examples from this codebase
+
 ## License
 MIT
